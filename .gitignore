@@ -1,0 +1,10 @@
+Arcade/
+.project_backup/
+*.arcproj
+*.wav
+*.ogg
+*.mp3
+*.jpg
+*.png
+*.zip
+*.rar

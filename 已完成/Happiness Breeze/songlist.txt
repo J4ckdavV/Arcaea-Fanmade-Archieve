@@ -1,0 +1,38 @@
+{
+ "id": "happinessbreeze",
+ "title_localized": {
+ 　"en": "Happiness Breeze"
+ },
+ "artist": "3R2 as DJ Mashiro",
+ "bpm": "185",
+ "bpm_base": "185",
+ "set": "base",
+ "purchase": "",
+ "audioPreview": 62270,
+ "audioPreviewEnd": 79135,
+ "side": 1,
+ "bg": "cytus_conflict",
+ "version": "4.0",
+ "date": "1874534470"
+ "difficulties": [
+  {
+   "ratingClass": 0,
+   "chartDesigner": "",
+   "jacketDesigner: "",
+   "rating": 0
+  },
+  {
+   "ratingClass": 1,
+   "chartDesigner": "",
+   "jacketDesigner: "",
+   "rating": 0
+  },
+  {
+   "ratingClass": 2,
+   "chartDesigner": "Pyralid",
+   "jacketDesigner: "",
+   "rating": 9,
+   "ratingPlus": true
+  }
+ ]
+},

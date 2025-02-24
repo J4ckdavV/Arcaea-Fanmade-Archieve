@@ -1,0 +1,38 @@
+{
+ "id": "abiogenesis",
+ "title_localized": {
+ 　"en": "Ops:Limone"
+ },
+ "artist": "Reku Mochizuki",
+ "bpm": "210",
+ "bpm_base": "210",
+ "set": "base",
+ "purchase": "",
+ "audioPreview": 42141,
+ "audioPreviewEnd": 60142,
+ "side": 1,
+ "bg": "omatsuri_conflict",
+ "version": "4.0.0",
+ "date": "1655476979"
+ "difficulties": [
+  {
+   "ratingClass": 0,
+   "chartDesigner": "",
+   "jacketDesigner: "",
+   "rating": 0
+  },
+  {
+   "ratingClass": 1,
+   "chartDesigner": "",
+   "jacketDesigner: "",
+   "rating": 0
+  },
+  {
+   "ratingClass": 2,
+   "chartDesigner": "Pyra:Lid",
+   "jacketDesigner: "",
+   "rating": 10,
+   "ratingPlus": false
+  }
+ ]
+},

@@ -1,0 +1,318 @@
+    },
+    {
+      "idx": 275,
+      "id": "defection",
+      "title_localized": {
+        "en": "Defection"
+      },
+      "artist": "TeddyLoid feat. DELTA",
+      "bpm": "160",
+      "bpm_base": 160,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 0,
+      "bg": "finale_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1657152004,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "美和野らぐ",
+          "chartDesigner": "Monolith Incarnate",
+          "rating": 3
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "美和野らぐ",
+          "chartDesigner": "Monolith Incarnate",
+          "rating": 6
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "美和野らぐ",
+          "chartDesigner": "Monolith Incarnate",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 276,
+      "id": "infinitestrife",
+      "title_localized": {
+        "en": "Infinite Strife,"
+      },
+      "artist": "BlackYooh vs. siromaru",
+      "bpm": "198",
+      "bpm_base": 198,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "finale_conflict",
+      "remote_dl": true,
+      "world_unlock": false,
+      "byd_local_unlock": true,
+      "date": 1657152005,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "Enji",
+          "chartDesigner": "Inner Labyrinth",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "Enji",
+          "chartDesigner": "Inner Labyrinth",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "Enji",
+          "chartDesigner": "Inner Labyrinth",
+          "rating": 9,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 3,
+          "jacketDesigner": "Enji",
+          "chartDesigner": "Inner Labyrinth",
+          "rating": 10,
+          "ratingPlus": true,
+          "world_unlock": false,
+          "hidden_until": "none"
+        }
+      ],
+      "additional_files":[
+        "video.mp4",
+        "video_audio.ogg"
+      ]
+    },
+    {
+      "idx": 277,
+      "id": "worldender",
+      "title_localized": {
+        "en": "World Ender",
+		"ja": "魔王"
+      },
+      "artist": "sasakure.UK × TJ.hangneil",
+      "bpm": "190-280",
+      "bpm_base": 280,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 642,
+      "audioPreviewEnd": 33000,
+      "side": 0,
+      "bg": "finale_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "byd_local_unlock": true,
+      "date": 1657152006,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "米室",
+          "chartDesigner": "Imaginary Sky",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "米室",
+          "chartDesigner": "Imaginary Sky",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "米室",
+          "chartDesigner": "Imaginary Sky",
+          "rating": 9,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 3,
+          "jacketDesigner": "米室",
+          "chartDesigner": "Imaginary Sky",
+          "rating": 11,
+          "world_unlock": false,
+          "hidden_until": "none"
+        }
+      ],
+      "additional_files":[
+        "video.mp4",
+        "video_audio.ogg"
+      ]
+    },
+    {
+      "idx": 278,
+      "id": "pentiment",
+      "title_localized": {
+        "en": "Pentiment"
+      },
+      "artist": "Nothing But Requiem with Museo",
+      "bpm": "200-222",
+      "bpm_base": 222,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 35675,
+      "audioPreviewEnd": 69189,
+      "side": 1,
+      "bg": "pentiment",
+      "remote_dl": true,
+      "world_unlock": false,
+      "byd_local_unlock": true,
+      "date": 1657152007,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "村カルキ",
+          "chartDesigner": "Paradox Blight",
+          "rating": 6
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "村カルキ",
+          "chartDesigner": "Paradox Blight",
+          "rating": 8
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "村カルキ",
+          "chartDesigner": "Paradox Blight",
+          "rating": 10
+        },
+        {
+          "ratingClass": 3,
+          "jacketDesigner": "村カルキ",
+          "chartDesigner": "Paradox Blight",
+          "rating": 11,
+          "world_unlock": false,
+          "hidden_until": "none"
+        }
+      ],
+      "additional_files":[
+        "video.mp4",
+        "video_audio.ogg"
+      ]
+    },
+    {
+      "idx": 279,
+      "id": "arcanaeden",
+      "title_localized": {
+        "en": "Arcana Eden"
+      },
+      "artist": "Team Grimoire vs Sakuzyo vs Laur",
+      "bpm": "211",
+      "bpm_base": 211,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 2274,
+      "audioPreviewEnd": 32985,
+      "side": 1,
+      "bg": "arcanaeden",
+      "remote_dl": true,
+      "world_unlock": false,
+      "byd_local_unlock": true,
+      "date": 1657152008,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Eye of the Storm",
+          "rating": 5
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Eye of the Storm",
+          "rating": 8
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Eye of the Storm",
+          "rating": 10
+        },
+        {
+          "ratingClass": 3,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Eye of the Storm",
+          "rating": 11,
+          "world_unlock": false,
+          "hidden_until": "none"
+        }
+      ],
+      "additional_files":[
+        "video.mp4",
+        "video_audio.ogg"
+      ]
+    },
+    {
+      "idx": 280,
+      "id": "testify",
+      "title_localized": {
+        "en": "Testify"
+      },
+      "artist": "void (Mournfinale) feat. 星熊南巫",
+      "bpm": "178",
+      "bpm_base": 178,
+      "set": "finale",
+      "purchase": "finale",
+      "audioPreview": 66067,
+      "audioPreviewEnd": 86629,
+      "side": 2,
+      "bg": "testify",
+      "remote_dl": true,
+      "world_unlock": false,
+      "byd_local_unlock": true,
+      "songlist_hidden": true,
+      "date": 1657152009,
+      "version": "4.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Eternal¦PAST",
+          "rating": 7,
+          "hidden_until": "song"
+        },
+        {
+          "ratingClass": 1,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Adverse¦PRESENT",
+          "rating": 9,
+          "hidden_until": "song"
+        },
+        {
+          "ratingClass": 2,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Black¦FUTURE",
+          "rating": 10,
+          "ratingPlus": true,
+          "hidden_until": "song"
+        },
+        {
+          "ratingClass": 3,
+          "jacketDesigner": "シエラ",
+          "chartDesigner": "Silent¦END",
+          "rating": 12,
+          "world_unlock": false,
+          "hidden_until": "song"
+        }
+      ],
+      "additional_files":[
+        "video.mp4",
+        "video_audio.ogg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "No-name Requiem",
+ "title_localized": {
+ 　"en": "No-name Requiem"
+ },
+ "artist": "打打だいず",
+ "bpm": "183",
+ "bpm_base": "183",
+ "set": "base",
+ "purchase": "",
+ "audioPreview": 85574,
+ "audioPreviewEnd": 98852,
+ "side": 1,
+ "bg": "eden_conflict",
+ "version": "4.0",
+ "date": "1874534470"
+ "difficulties": [
+  {
+   "ratingClass": 0,
+   "chartDesigner": "",
+   "jacketDesigner: "",
+   "rating": 0
+  },
+  {
+   "ratingClass": 1,
+   "chartDesigner": "",
+   "jacketDesigner: "",
+   "rating": 0
+  },
+  {
+   "ratingClass": 2,
+   "chartDesigner": "陽謎",
+   "jacketDesigner: "",
+   "rating": 10,
+   "ratingPlus": false
+  }
+ ]
+},
